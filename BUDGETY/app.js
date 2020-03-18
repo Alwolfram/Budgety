@@ -478,7 +478,4 @@ var controller = (function(budgetCtrl, UICtrl){
 })(budgerController, UIController);     
 
 controller.init();
-// hey prerna i dont how know are you there i hope you are good. If youre not happy may all god give you all the happiness to you and your family.
-// And pass mine too to you. i love you with all my heart but i cant see you like this. Please God if you exist do make her happy whatever it costs, even if it costs me.
-// Please take care of her and her family. Leave mine and give all the love to her. Please
-// Give her all the happiness she deserved 
+
